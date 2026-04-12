@@ -12,11 +12,11 @@ The Modrinth link (This is for people on Github) is [here](https://modrinth.com/
 ## Why?
 Allows for moudularity in the pack, might save space for people who don't have enough (Islamicraft IS a beefy resource pack) and ensures atleast SOMETHING survives if (and may Allah not have this happen—say Ameen!) the pack is to be deleted.
 
-### No I mean, in general
-Oh you mean in general? Well free good deeds, obviously! It allows me to spread reminders via Minecraft and allows you to get reminders via Minecraft!
+### No I mean in general
+Free good deeds obviously! It allows me to spread reminders via Minecraft and allows you to get reminders via Minecraft!
 
-### Hmm, could I like put your Resourcepack into MY modpack?
+### Could I put your Resourcepack into MY modpack?
 Read the [License](https://github.com/friedegg796/Islamitext?tab=License-1-ov-file)
 
-### So like I found out that something doesn't work in your pack gerrr
+### Something doesn't work in your pack gerrr/hmm I wanna know something
 Make an [issue](https://github.com/friedegg796/Islamitext/issues), I'll check it inshaAllah.
