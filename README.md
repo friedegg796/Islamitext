@@ -9,7 +9,7 @@ Splashes can be read [here](https://github.com/friedegg796/Islamitext/blob/main/
 
 End Poem (Not really a poem anymore) can be read [here](https://github.com/friedegg796/Islamitext/blob/main/assets/minecraft/texts/end.txt)
 
-## Something doesn't work in your pack gerrr/hmm I wanna know something
+## I got a question/suggestion/problem
 Make an [issue](https://github.com/friedegg796/Islamitext/issues), I'll check it inshaAllah.
 
 ### Why?
