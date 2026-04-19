@@ -13,7 +13,7 @@ End Poem (Not really a poem anymore) can be read [here](https://github.com/fried
 Make an [issue](https://github.com/friedegg796/Muslimtext/issues), I'll check it inshaAllah.
 
 ### Why?
-Although it's already included in Islamicraft, this saves space for people who don't have enough (Islamicraft IS a beefy resource pack) and ensures atleast SOMETHING survives if (and may Allah not have this happen—say Ameen!) the pack is to be deleted.
+Although it's already included in Muslimcraft, this saves space for people who don't have enough (Muslimcraft IS a beefy resource pack) and ensures atleast SOMETHING survives if (and may Allah not have this happen—say Ameen!) the pack is to be deleted.
 
 ### No I mean in general
 Free good deeds obviously! It allows me to spread reminders via Minecraft and allows you to get reminders via Minecraft!
