@@ -8,7 +8,7 @@ Replaces the text of the End Poem (The one you get when you go into the portal a
 
 The Islamic text includes Quran verses, and benefical reminders in general.
 
-The Github repo containing this (Yes I put it in a Github repo I don't really know where else to put it) can be found [here](https://github.com/friedegg796/Muslimtext)
+The Github repository containing this can be found [here](https://github.com/friedegg796/Muslimtext)
 
 Splashes can be read [here](https://github.com/friedegg796/Muslimtext/blob/main/assets/minecraft/texts/splashes.txt)
 
@@ -27,6 +27,12 @@ If you are on Modrinth, read their TOS as well.
 On Modrinth you install the zip and then put it in your Resourcepacks folder of your Minecraft Instance.
 
 On [Github](https://github.com/friedegg796/Muslimtext) you install the zip, unzip it, and then do the above (Unreleased versions)
+
+Or look for the named zip file in [releases](https://github.com/friedegg796/Muslimtext/releases).
+
+#### Disclaimer
+
+NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
 
 Or look for the named zip file in [releases](https://github.com/friedegg796/Muslimtext/releases).
 
