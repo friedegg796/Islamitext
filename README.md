@@ -33,9 +33,3 @@ Or look for the named zip file in [releases](https://github.com/friedegg796/Musl
 #### Disclaimer
 
 NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
-
-Or look for the named zip file in [releases](https://github.com/friedegg796/Muslimtext/releases).
-
-#### Disclaimer
-
-NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
