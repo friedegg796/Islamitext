@@ -1,3 +1,8 @@
+[![Sparked Hosting logo affiliate link](https://cdn.modrinth.com/data/cached_images/415da92d53eb3bb404b5dd29fe8379421e3bce1e.png)
+](https://billing.sparkedhost.com/aff.php?aff=3242) 
+
+_This image has an affiliate link, aka I can get a commission (MONEY for me at no expense to you) if you purchase through this link. So if you wanna support me, and get a neat little server for Minecraft, click the image!_
+
 # Muslimtext
 Replaces the text of the End Poem (The one you get when you go into the portal after defeating the Ender dragon), and the Splash text (The Yellow text in Minecraft's Menu) with more Islamic text.
 
@@ -9,24 +14,21 @@ Splashes can be read [here](https://github.com/friedegg796/Muslimtext/blob/main/
 
 End Poem (Not really a poem anymore) can be read [here](https://github.com/friedegg796/Muslimtext/blob/main/assets/minecraft/texts/end.txt)
 
-## I got a question/suggestion/problem
+## Questions/Suggestions/Problems
 Make an [issue](https://github.com/friedegg796/Muslimtext/issues), I'll check it inshaAllah.
 
-### Why?
-Although it's already included in Muslimcraft, this saves space for people who don't have enough (Muslimcraft IS a beefy resource pack) and ensures atleast SOMETHING survives if (and may Allah not have this happen—say Ameen!) the pack is to be deleted.
+### Could I use your Resourcepack in MY modpack?
+Read the [License](https://github.com/friedegg796/Muslimtext?tab=License-1-ov-file)
 
-### No I mean in general
-Free good deeds obviously! It allows me to spread reminders via Minecraft and allows you to get reminders via Minecraft!
+If you are on Modrinth, read their TOS as well.
 
-### How do I install this...
+### How do I install...
 
 On Modrinth you install the zip and then put it in your Resourcepacks folder of your Minecraft Instance.
 
-On [Github](https://github.com/friedegg796/Muslimtext) you install the zip, unzip it, and then do the above.
+On [Github](https://github.com/friedegg796/Muslimtext) you install the zip, unzip it, and then do the above (Unreleased versions)
 
-### Could I put your Resourcepack into MY modpack?
-Read the [License](https://github.com/friedegg796/Muslimtext?tab=License-1-ov-file)
-
+Or look for the named zip file in [releases](https://github.com/friedegg796/Muslimtext/releases).
 
 #### Disclaimer
 
